@@ -1609,7 +1609,7 @@
 			background-image: url("images/background.png");
 			background-size: 100%;
 			background-color: #fff;
-			color: black;
+			background-blend-mode: darken;
 		}
 
 		.wrapper.style2 {
